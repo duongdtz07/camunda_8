@@ -1,0 +1,23 @@
+{
+  "components": [
+    {
+      "label": "Reason",
+      "type": "textarea",
+      "layout": {
+        "row": "Row_0m4j0ld",
+        "columns": null
+      },
+      "id": "Field_1su6dh1",
+      "key": "reason_form"
+    }
+  ],
+  "type": "default",
+  "id": "reason_form",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.8.0",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.44.0"
+  },
+  "schemaVersion": 19
+}

@@ -1,0 +1,23 @@
+{
+  "components": [
+    {
+      "label": "Delivery to shipper",
+      "type": "checkbox",
+      "layout": {
+        "row": "Row_03mhr15",
+        "columns": null
+      },
+      "id": "Field_13dby9p",
+      "key": "delivery_to_shipper"
+    }
+  ],
+  "type": "default",
+  "id": "delivery_to_shipper",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.8.0",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.44.0"
+  },
+  "schemaVersion": 19
+}

@@ -1,0 +1,23 @@
+{
+  "components": [
+    {
+      "label": "Notification",
+      "type": "textarea",
+      "layout": {
+        "row": "Row_0k1f5pt",
+        "columns": null
+      },
+      "id": "Field_1r1f8am",
+      "key": "notification_form"
+    }
+  ],
+  "type": "default",
+  "id": "notification_form",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.8.0",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.44.0"
+  },
+  "schemaVersion": 19
+}
